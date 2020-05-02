@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EXO3_DATA</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="plombiers_array">
+        <item>Choisir un plombier</item>
+        <item>Ahmed</item>
+        <item>Omar</item>
+        <item>Hamza</item>
+        <item>Hocine</item>
+    </string-array>
+
+    <string-array name="interventions_array">
+        <item>Type intervention</item>
+        <item>installation sanitaire</item>
+        <item>installation de chauffage</item>
+        <item>dépannage sanitaire</item>
+        <item>gaz</item>
+        <item>zinguerie</item>
+    </string-array>
+</resources>
